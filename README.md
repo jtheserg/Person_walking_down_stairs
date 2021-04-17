@@ -6,4 +6,4 @@ An exercise from [this tweet](https://www.answersdocs.com/ExpertAnswers/2-write-
 * Every time when `person` walks down 1 stair, move him to the right a bit
 
 ## How to run
-* Just download the program from [releases](https://github.com/jtheserg/Person-walking-down-stairs/releases) and run it
+* Just download the program from [releases](https://github.com/jtheserg/Person_walking_down_stairs/releases) and run it
